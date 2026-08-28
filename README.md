@@ -6,10 +6,13 @@ An interactive E-Commerce and Superstore retail analytics dashboard built in **M
 ##  Dashboard Preview
 ## All Branch
 <img width="895" height="498" alt="mall" src="https://github.com/user-attachments/assets/12821a34-d2ea-486e-ab54-64fda65f4d0f" />
+
 ## Brooklyn
 <img width="895" height="498" alt="brooklyn" src="https://github.com/user-attachments/assets/058068be-6843-41fa-ba72-59f416a211fc" />
+
 ## Manhattan
 <img width="897" height="499" alt="Manhattan" src="https://github.com/user-attachments/assets/a866fe98-2a51-49df-a3b0-310144c35fc0" />
+
 ## Queens
 <img width="896" height="497" alt="Queens" src="https://github.com/user-attachments/assets/1136f130-90d1-4ad1-81b8-eee4f24bf6c7" />
 
